@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-ym2ind.shadowdiary.com/sitemap.xml
